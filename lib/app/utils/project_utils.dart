@@ -15,35 +15,35 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/Project_CustomerPortal.png',
-    icons: '',
+    banners: 'assets/imgs/05.png',
+    icons: 'assets/imgs/flutter.png',
     titles: 'Company Portal',
     description:
         'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: '',
+    links: 'https://github.com/vincentsandrya/',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/Project_Portofolio.png',
+    banners: 'assets/imgs/06.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Website Portofolio',
     description:
         'Website portofolio that fit and responsive with famous OS. Develop using Flutter.',
-    links: 'https://github.com/sudeshnb/',
+    links: 'https://github.com/vincentsandrya/Flutter_Portofolio',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/07.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Movie Recommendation',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'Movie Recommendation is my final project in college, build with Method Attribute Utility Theory, with PHP, HTML, CSS language.',
+    links: 'https://github.com/vincentsandrya/PHP_MovieRecommendation',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/imgs/08.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Budgeting Management System',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'It is my own budgeting systme to help me monitorize my expense. build from PHP',
+    links: 'https://github.com/vincentsandrya/PHP_ArusKas',
   ),
 ];
